@@ -20,7 +20,12 @@ h1 {
     justify-content: space-around;
 }
 
-
+.footer {
+    text-align: center;
+    font-size: 18px;
+    background-color: rgba(0, 0, 0, 0.349);
+    border: solid 1px black;
+}
 
 
 
