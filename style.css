@@ -3,9 +3,11 @@
     
 }
 
-h1 {
+.title {
     background-color: grey;
-    border: solid 1px black
+    border: solid 1px black;
+    padding-bottom: 10px;
+    
 }
 
 .table {
@@ -25,6 +27,10 @@ h1 {
     font-size: 18px;
     background-color: rgba(0, 0, 0, 0.349);
     border: solid 1px black;
+}
+
+.color {
+    color: white;
 }
 
 
